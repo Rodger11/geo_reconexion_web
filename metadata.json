@@ -1,0 +1,7 @@
+{
+  "name": "GEO RE-CONEXION",
+  "description": "Sistema de Inteligencia Territorial y Comando de Campaña - Ventanilla 2026",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
